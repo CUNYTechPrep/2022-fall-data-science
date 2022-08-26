@@ -1,8 +1,6 @@
 # 2022-fall-data-science
 2022-fall-data-science
 
-
-
 # Zoom Links
 * Friday's Class 12:00 - 2:30pm [Zoom Link](https://us02web.zoom.us/j/84582584674?pwd=NzB3aWkwNVlkdEZUUWhSK1lxcCtoZz09)
 * Tuesday's Class 6:30 - 9:00pm [Zoom Link](
@@ -13,10 +11,10 @@ Slack the instructor for a private video meeting link.
 * Zack DeSario's 
 	* Tuesdays 5:30-6:30pm
 	* Fridays 2:30-3:30pm
-* TA Jon Chery
-	* TBD
 * TA Tyron Samaroo
-	* TBD
+	* Tuesday 6:30-8:30pm
+* TA Jon Chery
+	* Monday and Wednesday 8:00-9:00pm
 * TA Seth Marcus
 	* Monday and Wednesday 2:00-3:00pm
 
