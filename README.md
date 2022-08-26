@@ -2,9 +2,9 @@
 2022-fall-data-science
 
 # Zoom Links
-* Friday's Class 12:00 - 2:30pm [Zoom Link](https://us02web.zoom.us/j/84582584674?pwd=NzB3aWkwNVlkdEZUUWhSK1lxcCtoZz09)
 * Tuesday's Class 6:30 - 9:00pm [Zoom Link](
  https://us02web.zoom.us/j/89617243397?pwd=eUU0L2JWSVdzRU1qa3p3bVp6UFF4dz09)
+* Friday's Class 12:00 - 2:30pm [Zoom Link](https://us02web.zoom.us/j/84582584674?pwd=NzB3aWkwNVlkdEZUUWhSK1lxcCtoZz09)
 
 # Office Hours
 Slack the instructor for a private video meeting link.
