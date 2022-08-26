@@ -24,6 +24,9 @@ Slack the instructor for a private video meeting link.
 * [Fridays HW Submission Sheet](https://docs.google.com/spreadsheets/d/1Aqc558z5er5SgwdxHY98u1I1iRB2HThhqNZ_QWwwb5k/edit#gid=0)
 
 
+# [Lecture Recordings](https://docs.google.com/document/d/1nZvvOw1MoLBC4cTHzaKR-B_LQM8uY8Ywpt_FY9ZXWyE/edit?usp=sharing)
+
+
 # Syllabus 
 -   Week 01 [08/26 - 08/30]: Introduction to Data Science & working with Data in Pandas
 -   Week 02 [09/06 - 09/09]: Exploratory Data Analysis and Visualizations
