@@ -46,3 +46,8 @@
 	* Please submit the link to your forked repo Exercise homework file in the HW Tracker Sheet next to your name.  
 		* [Tuesdays HW Submission Sheet](https://docs.google.com/spreadsheets/d/1yI_pBTrMJlkdwTMEb3NpZvgGEvV3PEY0ioVjRFr4ZAw/edit?usp=sharing)
 		* [Fridays HW Submission Sheet](https://docs.google.com/spreadsheets/d/1Aqc558z5er5SgwdxHY98u1I1iRB2HThhqNZ_QWwwb5k/edit#gid=0)
+
+If you are getting an authentication error when trying to push your changes to github, follow these instructions
+* [Part 1](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
+* [Part 2](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account)
+* [Part 3 if needed](https://stackoverflow.com/questions/13363553/git-error-host-key-verification-failed-when-connecting-to-remote-repository)
