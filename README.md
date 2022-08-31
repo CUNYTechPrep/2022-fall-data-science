@@ -12,7 +12,8 @@ Slack the instructor for a private video meeting link.
 	* Tuesdays 5:30-6:30pm
 	* Fridays 2:30-3:30pm
 * TA Tyron Samaroo
-	* Tuesday 6:30-8:30pm
+	* Tuesday 6:00-6:30pm
+	* Tuesday 9:00-10:30pm
 * TA Jon Chery
 	* Monday and Wednesday 9:00-10:00pm
 * TA Seth Marcus
