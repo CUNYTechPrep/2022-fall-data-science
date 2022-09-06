@@ -8,7 +8,7 @@
 
 ## Announcements
 1. Always check [Silu's Weekly Updates](https://ctp2022.slack.com/archives/C03MWUDJM6V/p1661961436088019) on slack every Wed afternoon. (also, add emoji reaction to the slack message for us to know you've seen it.)
-2. The bulk of the Summer HW is due this Friday Sep 9th at 11:59pm. 
+2. The bulk of the [Summer HW](https://docs.google.com/document/d/1BA7U77SKa_SGC6OXG7OmC0xliWkmPEE3RnWVRWqJ4sE/edit) is due this Friday Sep 9th at 11:59pm. 
 
 # Plan for today
 1. Review last weeks homework.
@@ -18,13 +18,17 @@
 5. Begin Exercise.
 
 # Updating your fork
+
+
 Every week, run these commands from your terminal when you're inside the 2022-fall-data-science folder.
 1.  `git fetch upstream`
 2.  `git merge upstream/main`
 
+If it says you dont have an upstream, that means you didn't run the command from last class: `git remote add upstream https://github.com/CUNYTechPrep/2022-fall-data-science.git`
+
 __!! If you get this error `merge: upstream/master not something we can merge` when trying to update your fork. Try running this command instead__
-	1. `git fetch upstream`
-	2. `git merge upstream/master`
+1. `git fetch upstream`
+2. `git merge upstream/master`
 
 
 
