@@ -19,7 +19,7 @@
 
 
 # Homework! 
-FIND A TEAM!!! Make a team (3 per team.  ie; 2 others and yourself).  
+In addition to the Exercise-Regression.ipynb, FIND A TEAM!!! Make a team (3 per team.  ie; 2 others and yourself).  
 * Use slack.  Post your ideas in the slack channel. 
 *  Read others ideas in the slack channel.  
 * Reach out to others.
