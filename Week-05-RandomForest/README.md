@@ -1,9 +1,7 @@
-
-
-
 # Decision Trees and Random Forests
 
 ## Announcements
+0. Remind me to start recording. 
 1. Weekly Slack message in [#general channel](https://ctp2022.slack.com/archives/C03MWUDJM6V/p1663777029656509).  READ IT!!
 2. IRL classes. - If you need a laptop, please let us know (Jackie Bellando)
 	- Tuesday, 11/15 @ 6:30-9:00pm
