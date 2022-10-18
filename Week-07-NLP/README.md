@@ -15,3 +15,8 @@ If you need a laptop, please let us Silu know via slack.
 3. Google Slides Lecture: [Link](https://docs.google.com/presentation/d/1a3LTnyL0NhJnuPLnPD4UvgpIx_pa2H1Tk3IFjUPY05E/edit?usp=sharing) 
 4. Live Coding Lecture
 6. Team breakout rooms.
+
+
+## Update your repo with week 7 files. 
+1.  `git fetch upstream`
+2.  `git merge upstream/main`
