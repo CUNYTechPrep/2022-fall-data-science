@@ -19,8 +19,8 @@ def load_geos(fp):
 
 
 # loading the data
-df_counties = load_data('../data/us-counties-recent.csv')
-geo_fp = '../data/geojson-counties-fips.json'
+df_counties = load_data('data/us-counties-recent.csv')
+geo_fp = 'data/geojson-counties-fips.json'
 counties = load_geos(geo_fp)
 
 
@@ -57,6 +57,7 @@ fig = px.choropleth(df_counties,
 
 # changing the charts background color
 fig.update_layout(geo=dict(bgcolor= 'rgba(0,0,0,0)'))
+fig.update_traces(marker_line_width=0)
 
 # pushing the chart to the page
 st.plotly_chart(fig, use_container_width=True)
