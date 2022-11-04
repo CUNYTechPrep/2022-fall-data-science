@@ -25,11 +25,10 @@ def load_geos(fp):
 
 
 # loading the data
-df = load_data('../data/us-states-national-average.csv') 
-df_counties = load_data('../data/us-counties-recent.csv')
 
-geo_fp = '../data/geojson-counties-fips.json'
-counties = load_geos(geo_fp)
+df = load_data('data/us-states-national-average.csv') 
+df_counties = load_data('data/us-counties-recent.csv')
+
 
 with col0:
     st.header('Welcome to my covid dashborad.')
