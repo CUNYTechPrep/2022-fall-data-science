@@ -21,5 +21,18 @@ st.header('Completed running all models!')
 st.write('See results below.')
 st.balloons()
 report = pull()
-st.dataframe(report)
+
+st.dataframe(
+	report.style.highlight_max(axis=0, color='yellow'),
+	use_container_width=True
+	)
+	
+
+
+best_choice = str(best_model)
+
+st.markdown("The best model is:\n\n"+
+	best_choice
+	)
+
 
