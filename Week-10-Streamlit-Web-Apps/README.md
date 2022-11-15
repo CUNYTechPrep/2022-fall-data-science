@@ -25,6 +25,10 @@ pip install -r requirements.txt
 
 ## Resources
 
+0. Streamlit [Offical Gallery and Tutorials](https://streamlit.io/gallery)
+
+0. Streamlit how to [deploy your App](https://docs.streamlit.io/streamlit-cloud/get-started/deploy-an-app). 
+
 0. Awesome student, Alex Chen, Example Apps
 	* [Image Classifier Code](https://github.com/112523chen/Image-Classification-App), and [website](https://112523chen-image-classification-dem0.streamlitapp.com/)
 
