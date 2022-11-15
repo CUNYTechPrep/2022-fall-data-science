@@ -27,6 +27,10 @@ Slack the instructor for a private video meeting link.
 
 # [Lecture Recordings](https://docs.google.com/document/d/1nZvvOw1MoLBC4cTHzaKR-B_LQM8uY8Ywpt_FY9ZXWyE/edit?usp=sharing)
 
+# General reference / cool sites
+0. [#awesome-datascience](https://github.com/academic/awesome-datascience)
+0. [List of datasets](https://github.com/academic/awesome-datascience#datasets)
+
 
 # Syllabus 
 -   Week 01 [08/26 - 08/30]: Introduction to Data Science & working with Data in Pandas
