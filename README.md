@@ -32,6 +32,7 @@ Slack the instructor for a private video meeting link.
 0. [List of datasets](https://github.com/academic/awesome-datascience#datasets)
 
 
+
 # Syllabus 
 -   Week 01 [08/26 - 08/30]: Introduction to Data Science & working with Data in Pandas
 -   Week 02 [09/06 - 09/09]: Exploratory Data Analysis and Visualizations
