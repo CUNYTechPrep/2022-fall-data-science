@@ -46,6 +46,6 @@ Slack the instructor for a private video meeting link.
 -   Week 10 [11/08 - 11/11]: Neural Networks
 -   Week 11 [11/15 - 11/18]: __IN PERSON CLASS :smiley:__ App Building with Streamlit + In-Class Workshop
 -   Week XX [11/22 - 11/25]: NO CLASS
--   Week 12 [11/29 - 12/02]: Projects Week 1
+-   Week 12 [11/29 - 12/02]: Neural Networks and Project Time
 -   Week 13 [12/06 - 12/09]: **DRESS REHEARSAL** MVP In Class Presentations + Projects Time After
 -   Week 14 [12/14]: **Demo Night** Wed 5:30 - 7:00  **Must be logged in at 5:00!!** 
